@@ -3,6 +3,8 @@ layout: archive
 title: "Publications (# - corresponding author)"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% if site.author.googlescholar %}
