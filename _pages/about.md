@@ -14,7 +14,7 @@ We creat new functional molecules for different applications with the help of sy
 
 News
 ======
-*2023-05      Chan Lab has been established!
+* 2023-05      Chan Lab has been established!
 
 
 
