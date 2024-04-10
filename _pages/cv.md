@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 **City University of Hong Kong** 5/2023 – now                                                                        
-Assistant Professor 
+Assistant Professor (Department of Materials Science and Engineering, Department of Chemistry (affiliate)) 
 
 **Kyushu University** 8/2016 – 4/2023                                                                        
 Postdoc, Research Associate Professor (Supervisor: Prof. Chihaya Adachi)                            
