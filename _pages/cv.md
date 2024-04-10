@@ -16,14 +16,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**City University of Hong Kong** 5/2009 – 8/2009                                                                        
+Assistant Professor 
 
-**Kyushu University** 04/2021 – 04/2023
-Postdoc, Research Associate Professor (Supervisor: Prof. Chihaya Adachi)                          
-
+**Kyushu University** 5/2009 – 8/2009                                                                        
+Postdoc, Research Associate Professor (Supervisor: Prof. Chihaya Adachi)                            
 
 **Chinese University of Hong Kong** 5/2009 – 8/2009                                                                        
 Summer Research Assistant (Supervisor: Prof. Zuowei Xie)                                     
