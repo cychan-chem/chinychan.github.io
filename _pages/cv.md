@@ -16,15 +16,18 @@ Education
 
 Work experience
 ======
-**City University of Hong Kong** 5/2009 – 8/2009                                                                        
+**City University of Hong Kong** 5/2023 – now                                                                        
 Assistant Professor 
 
-**Kyushu University** 5/2009 – 8/2009                                                                        
+**Kyushu University** 8/2016 – 4/2023                                                                        
 Postdoc, Research Associate Professor (Supervisor: Prof. Chihaya Adachi)                            
 
+**Chinese University of Hong Kong** 7/2015 – 7/2016                                                                        
+ Research Associate (Supervisor: Prof. Wing-Wah Yam)                                     
+
 **Chinese University of Hong Kong** 5/2009 – 8/2009                                                                        
-Summer Research Assistant (Supervisor: Prof. Zuowei Xie)                                     
-  
+Summer Research Assistant (Supervisor: Prof. Zuowei Xie)
+
 Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
