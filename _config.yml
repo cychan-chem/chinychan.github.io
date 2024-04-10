@@ -21,7 +21,7 @@ repository               : "chinychan/chinychan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "cityu.png"
   name             : "Dr. Chin-Yiu Chan"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor (CityU)"
