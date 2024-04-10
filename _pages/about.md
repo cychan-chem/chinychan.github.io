@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/> <img src='/images/figure04.jpg'>
+<br/> <img src='/images/figure4.jpg'>
 
 
 A data-driven personal website
