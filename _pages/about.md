@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Organo/Organometallic Functional Materials Lab"
+title: "Organic and Organometallic Functional Materials Lab"
 author_profile: true
 redirect_from: 
   - /about/
