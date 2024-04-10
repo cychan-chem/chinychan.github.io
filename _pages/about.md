@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chan Lab"
+title: "Organo/Organometallic Functional Materials Lab"
 author_profile: true
 redirect_from: 
   - /about/
