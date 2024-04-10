@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* PhD in Chemistry, University of Hong Kong, 2015 (Advisor: Prof. V.W.W. Yam)
-* BSc in Chemistry, Chinese University of Hong Kong, 2010
+PhD in Chemistry, University of Hong Kong, 2015 (Advisor: Prof. V.W.W. Yam)
+BSc in Chemistry, Chinese University of Hong Kong, 2010
 
 Work experience
 ======
@@ -41,7 +41,7 @@ Selected Publications ( # - Corresponding Author)
   
 Grant
 ======
-Principle investigator (PI)
+Sole Principle investigator (PI)
 1.	Start-up grant, City University of Hong Kong 
 2.	HyperfluorescenceTM Technology Innovation Project 2023
  
