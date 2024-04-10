@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications (# - corresponding author)"
 permalink: /publications/
-author_profile: bio-photo-2.jpg
+author_profile: true
 ---
 
 {% if site.author.googlescholar %}
