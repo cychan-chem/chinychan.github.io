@@ -43,5 +43,5 @@ author_profile: true
 25.	**C.-Y. Chan**, Y.-C. Wong, M.-Y. Chan#, V. W.-W. Yam#, Bifunctional Heterocyclic Spiro Derivatives for Organic Optoelectronics. **ACS Applied Materials & Interfaces** 8, 24782 (2016). DOI: 10.1021/acsami.6b09211.
 26.	**C.-Y. Chan**, Y.-C. Wong, M.-Y. Chan#, S.-H. Cheung, S.-K. So, V. W.-W. Yam#, Hole-Transporting Spirothioxanthene Derivatives as Donor Materials for Efficient Small-Molecule-Based Organic Photovoltaic Devices. **Chemistry of Materials** 26, 6585 (2014). DOI: 10.1021/cm5033699.
 27.	**C.-Y. Chan**, Y.-C. Wong, H.-L. Wong, M.-Y. Chan#, V. W.-W. Yam#, A New Class of Three-Dimensional p-Type Spirobifluorene-Modified Perylene Diimide Derivatives for Small Molecular-Based Bulk Heterojunction Organic Photovoltaic Devices. **Journal of Materials Chemistry C** 2, 7656 (2014). DOI: 10.1039/C4TC01001A.
-   text
+
 </div>
