@@ -9,28 +9,13 @@ redirect_from:
 <br/> <img src='/images/figure4.jpg'>
 
 
-A data-driven personal website
+We creat new functional molecules for different applications with the help of synthetic chemistry.
+
+
+News
 ======
-
-
-Getting started
-======
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
+*2023-05      Chan Lab has been established!
 
 
 
-How to edit your site's GitHub repository
-------
-
-For more info
-------
 
