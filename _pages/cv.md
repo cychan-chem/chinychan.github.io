@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<br/> <img src='/images/blue.jpg'>
+
 Education
 ======
 * PhD in Chemistry, University of Hong Kong, 2015 (Advisor: Prof. V.W.W. Yam)
