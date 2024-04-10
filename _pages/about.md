@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chan Lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<br/> <img src='/images/figure04.jpg'>
 
 
 A data-driven personal website
