@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br/> <img src='/images/Photo_CHAN Chin-Yiu.jpg'>
+<br/> <img src='/images/Photo_CHAN Chin-Yiu.jpg' width="30" height="30">
 
 Education
 ======
