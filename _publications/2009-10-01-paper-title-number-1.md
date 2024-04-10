@@ -1,7 +1,6 @@
 ---
 title: "Blue Electrophosphorescence from Iridium(III) Phosphors Bearing Asymmetric Di-N-aryl 6-(trifluoromethyl)-2H-imidazo[4,5-b]pyridin-2-ylidene Chelates"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Jie Yan, Zi‐Qi Feng, Yixin Wu, Dong‐Ying Zhou, Shek‐Man Yiu, Chin‐Yiu Chan, Yi Pan, Kai Chung Lau, Liang‐Sheng Liao, Yun Chi'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202305273'
 
