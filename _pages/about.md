@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Functional Organic and Organometallic Materials Lab"
+title: "Functional Organic and Organometallic Materials (FOAM) Lab"
 author_profile: true
 redirect_from: 
   - /about/
