@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**F**unctional **O**rganic **a**nd Organometallic **M**aterials (FOAM) Lab"
+title: "<u>F</u>unctional <u>O</u>rganic <u>a</u>nd Organometallic <u>M</u>aterials (FOAM) Lab"
 author_profile: true
 redirect_from: 
   - /about/
