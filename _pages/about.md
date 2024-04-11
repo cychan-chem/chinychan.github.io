@@ -15,9 +15,9 @@ redirect_from:
 
 News
 ======
-* **2024-01**      Xiaolan joins our lab as RA.
-* **2023-08**     Yufang joins our lab as postdoc.
-* **2023-05**     Chan Lab has been established!
+* **Jan 2024**      Xiaolan joins our lab as RA.
+* **Aug 2023**     Yufang joins our lab as postdoc.
+* **May 2023**     Chan Lab has been established!
 
 
 
