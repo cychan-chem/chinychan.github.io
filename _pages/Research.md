@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-1. Functional materials for organic light-emitting diodes (OLEDs)
+1. Functional Materials for OLEDs
 ======
 
 <br/> <img src='/images/research1.jpg' width="400" height="200">
