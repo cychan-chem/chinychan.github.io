@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Open Position"
-permalink: /Open Position/
+permalink: /Open position/
 author_profile: true
 redirect_from:
   - /resume
