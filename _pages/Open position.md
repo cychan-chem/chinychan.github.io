@@ -14,10 +14,10 @@ redirect_from:
 <div style="text-align: justify">
 We invite self-motivated and creative students to join FOAM. Candidate with research background in organic/organometallic synthesis is highly encouraged to apply to our lab. Additionally, we also welcome researchers from other research background to explore the possibility of cross-field research.
 </div>
-<b>Open positions:  PhD and MSc Students, Research Assistants</b>
+<b>Open positions:  PhD Students, Research Assistants</b>
 
-Outstanding candidate seeking for PhD application should consider [Hong Kong PhD fellowship](https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme).
+PhD application: Interested candidate should send your CV and research interest to Dr. Chan by [email](chinychan2@cityu.edu.hk). Outstanding candidate should consider [Hong Kong PhD fellowship](https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme).
 
-Interested candidate should first send your CV and research interest to Dr. Chan by email. 
+Postdoc/RA: Interested candidate should send your CV and research interest to Dr. Chan by [email](chinychan2@cityu.edu.hk). 
 
 
