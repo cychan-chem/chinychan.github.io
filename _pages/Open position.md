@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<br/> <img src='/images/IMG_0133.jpg'>
 
 <div style="text-align: justify">
 We invite self-motivated and creative students to join FOAM. Candidate with research background in organic/organometallic synthesis is highly encouraged to apply to our lab. Additionally, we also welcome researchers from other research background to explore the possibility of cross-field research.
