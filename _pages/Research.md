@@ -12,6 +12,7 @@ redirect_from:
 **1. Thermally activated delayed fluorescence (TADF)**
 
 <br/> <img src='/images/tadf.jpg' width="600" height="400">
+
 source: CCS Chem 2020, 2, 1203.
 
 <div style="text-align: justify">
