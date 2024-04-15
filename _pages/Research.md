@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**1. Thermally activated delayed fluorescence (TADF)**
+**1. Thermally activated delayed fluorescence (TADF) materials**
 
 <br/> <img src='/images/tadf.jpg' width="600" height="400">
 
