@@ -16,6 +16,6 @@ We invite self-motivated and creative students to join FOAM. Candidate with rese
 </div>
 <b>Open positions:  PhD and MSc Students, Research Assistants</b>
 
-Please send your CV and research interest to Dr. Chan by email (chinychan2@cityu.edu.hk). 
+Interested candidate should send your CV and research interest to Dr. Chan by email. 
 
 
