@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Open Position"
+title: "Openings"
 permalink: /Open position/
 author_profile: true
 redirect_from:
