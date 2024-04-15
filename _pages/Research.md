@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-**1. Functional Materials for organic light-emitting diodes (OLEDs)**
+**1. Thermally activated delayed fluorescence (TADF)**
 
-<br/> <img src='/images/research1.jpg' width="600" height="400">
+<br/> <img src='/images/tadf.jpg' width="600" height="400">
+source: CCS Chem 2020, 2, 1203.
 
 <div style="text-align: justify">
-Organic light-emitting diodes (OLEDs) offer distinct advantages, including light-weight, high flexibility and high color contrast. We are very interested in the design and synthesis of new functional molecules for improving the performance of OLEDs (efficiency, stability, driving voltage, color purity, etc).
+TADF organic materials can harvest both 25 % of singlet and 75 % of triplet excitons, resulting in 100 % internal quantum efficiency without the use of precious metal. TADF materials are considered as 3rd-generation display technology for organic light-emitting diodes (OLEDs). We are interested in the design and synthesis of TADF materials for acheiving high-performance OLEDs.
 </div>
