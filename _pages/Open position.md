@@ -16,6 +16,8 @@ We invite self-motivated and creative students to join FOAM. Candidate with rese
 </div>
 <b>Open positions:  PhD and MSc Students, Research Assistants</b>
 
-Interested candidate should send your CV and research interest to Dr. Chan by email. 
+Outstanding candidate seeking for PhD application should consider [Hong Kong PhD fellowship](https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme).
+
+Interested candidate should first send your CV and research interest to Dr. Chan by email. 
 
 
