@@ -13,7 +13,9 @@ redirect_from:
 
 Address
 ======
-R7190, 7/F, Lift 13, Bank of China (Hong Kong) Complex, City University of Hong Kong, Tat Chee Avenue, Kowloon, HK SAR
+R7190, 7/F, Lift 13, Bank of China (Hong Kong) Complex,
+City University of Hong Kong, 
+Tat Chee Avenue, Kowloon, HK SAR
 
 Education
 ======
