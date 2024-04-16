@@ -13,14 +13,14 @@ redirect_from:
 
 Address
 ======
-R7190, 7/F, Lift 13, Bank of China (Hong Kong) Complex,
-City University of Hong Kong, 
-Tat Chee Avenue, Kowloon, HK SAR
+<p>R7190, 7/F, Lift 13, Bank of China (Hong Kong) Complex,<br>
+City University of Hong Kong,<br>
+Tat Chee Avenue, Kowloon, HK SAR </p>
 
 Education
 ======
-* PhD in Chemistry, University of Hong Kong, 2015 (Advisor: Prof. Vivian Wing-Wah Yam)
-* BSc in Chemistry, Chinese University of Hong Kong, 2010
+<p>PhD in Chemistry, University of Hong Kong, 2015 (Advisor: Prof. Vivian Wing-Wah Yam)<br>
+BSc in Chemistry, Chinese University of Hong Kong, 2010</p>
 
 Work experience
 ======
