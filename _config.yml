@@ -25,10 +25,8 @@ author:
   name             : "Dr. Chin-Yiu Chan"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor (CityU)"
-  location         : "R7190, Lift 13, 
-	Bank of China (Hong Kong) Complex"
-  employer         : "City University of Hong Kong, 
-	Tat Chee Avenue, Kowloon, HK SAR"
+  location         : "R7190, Lift 13, Bank of China Complex"
+  employer         : "City University of Hong Kong"
   uri              : # https://www.cityu.edu.hk/mse/people/mse-faculty/chan-chin-yiu
   email            : "chinychan2@cityu.edu.hk" 
 
