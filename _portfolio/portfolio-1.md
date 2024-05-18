@@ -1,6 +1,6 @@
 ---
 title: "Dr. Yufang Li (Postdoc)"
-excerpt: "PhD (City University of Hong Kong, 2023) <br/><img src='/images/yufang_li.png'width="180" height="200">"
+excerpt: "PhD (City University of Hong Kong, 2023) <br/><img src='/images/yufang_li.png' width="180" height="200">
 collection: portfolio
 ---
 
