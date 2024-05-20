@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify"> 
-<img src='/images/Research field.png' width="400" height="400"> 
+<img src='/images/figure3.jpg'> 
 </div>
 
 <div style="text-align: justify">
