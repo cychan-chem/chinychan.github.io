@@ -1,6 +1,6 @@
 ---
 title: "Mr. Xiaolan Tan (RA)"
-excerpt: MSc (City University of Hong Kong, 2023)  <br/><img src='/images/tan.JPG' width="200" height="180">
+excerpt: Msc (City University of Hong Kong, 2023) <br/><img src='/images/tan.JPG' width="200" height="180">
 collection: portfolio
 ---
 <div style="text-align: justify">
